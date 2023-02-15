@@ -36,7 +36,3 @@ SWIFT
 - Tipsy
     - Divides a (dinner) bill between the chosen number of people
 
-
-SWIFT UI
-- Note worth looking at here. It’s extremely basic.
-
