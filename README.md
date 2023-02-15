@@ -40,5 +40,3 @@ SWIFT
 SWIFT UI
 - Note worth looking at here. It’s extremely basic.
 
-MACHINE LEARING
-- This is just from a course I did on Machine Learning
